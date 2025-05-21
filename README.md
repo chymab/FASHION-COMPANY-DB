@@ -34,21 +34,21 @@ DATA ANALYSIS
 
 - I was able to get the list of customers making sure that they didn't appear twice by using DISTINCT COUNT.
 
- https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb2.png
+![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb2.png)
 
 - I also counted total products base on their categories.
 
- https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb3.png
+ ![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb3.png)
 
 - I was able to determine the minimum,maximum and average sales made.
 
- https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb5.png
+ ![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb5.png)
 
 - I also recorded the orders placed base on the date they were made including  the quantity of stock in store.
 
- https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb6.png
+ ![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb6.png)
 
- https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb9.png
+ ![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb9.png)
  
   All these analysis can be seen in the attached file above.
 
