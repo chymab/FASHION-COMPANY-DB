@@ -26,7 +26,7 @@ DATA ANALYSIS
 
 - From my analysis,it can be deduced that the female gender had the highest rate of purchase.
 
-![image]https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb4.png
+![image]-https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb4.png
 
 - Aready,i filtered and sorted the datas differently inorder to answer the various queries involved.
 
