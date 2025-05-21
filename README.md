@@ -47,6 +47,9 @@ DATA ANALYSIS
 - I also recorded the orders placed base on the date they were made including  the quantity of stock in store.
 
  https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb6.png
+
+ https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb9.png
+ 
   All these analysis can be seen in the attached file above.
 
 VISUALIZATION
