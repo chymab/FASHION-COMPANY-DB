@@ -61,6 +61,10 @@ VISUALIZATION
    ![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb9.png)
 
 - Also,the purchasing power of the female folks are greater than the male counterpart.
+-
+  ![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb3.png)
+
+  
 
 RECOMMENDATIONS
 
