@@ -42,6 +42,8 @@ DATA ANALYSIS
 
 - I was able to determine the minimum,maximum and average sales made.
 
+ https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb5.png
+
 - I also recorded the orders placed base on the date they were made including  the quantity of stock in store.
   All these analysis can be seen in the attached file above.
 
