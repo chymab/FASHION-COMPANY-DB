@@ -46,12 +46,6 @@ DATA ANALYSIS
 
 - I also recorded the orders placed base on the date they were made including  the quantity of stock in store.
 
-| Orders base on date                                                           | QTY of stock in store
-![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb6.png) | ![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb9.png)
- 
-                             
-|------------------------------|-------------|
-
  ![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb6.png)
 
  ![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb9.png)
@@ -63,6 +57,8 @@ VISUALIZATION
 - During the analysis,i noticed that the producer produced more of the female clothings and shoes than the male.
 
 - I was able to record the total stock in store.
+
+   ![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb9.png)
 
 - Also,the purchasing power of the female folks are greater than the male counterpart.
 
