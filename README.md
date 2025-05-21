@@ -38,6 +38,8 @@ DATA ANALYSIS
 
 - I also counted total products base on their categories.
 
+ https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb3.png
+
 - I was able to determine the minimum,maximum and average sales made.
 
 - I also recorded the orders placed base on the date they were made including  the quantity of stock in store.
