@@ -48,8 +48,8 @@ DATA ANALYSIS
 
  ![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb6.png)
 
- ![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb9.png)
- 
+![image](https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb10.png)
+
   All these analysis can be seen in the attached file above.
 
 VISUALIZATION
