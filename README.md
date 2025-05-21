@@ -25,6 +25,7 @@ I used SQL server Management to answer the given queries.
 DATA ANALYSIS
 
 - From my analysis,it can be deduced that the female gender had the highest rate of purchase.
+
  https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb4.png
 
 - Aready,i filtered and sorted the datas differently inorder to answer the various queries involved.
@@ -32,6 +33,8 @@ DATA ANALYSIS
 - I equally customized the output and reported the aggregated data from the database using the GROUP-BY clause.
 
 - I was able to get the list of customers making sure that they didn't appear twice by using DISTINCT COUNT.
+
+ https://github.com/chymab/FASHION-COMPANY-DB/blob/main/fashiondb2.png
 
 - I also counted total products base on their categories.
 
