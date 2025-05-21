@@ -42,15 +42,19 @@ All these analysis can be seen in the attached file above.
 VISUALIZATION
 
 -During the analysis,i noticed that the producer produced more of the female clothings and shoes than the male.
+
 -I was able to record the total stock in store.
+
 -Also,the purchasing power of the female folks are greater than the male counterpart.
 
-RECOMMENDATION
+RECOMMENDATIONS
 
 From the overall analysis,i recommend that;
 
 -The producers should consider producing more of the unisex wears.This will help to lower significant loss as can be seen in the male counterpart.This will create a situation where the females will purchase the accessories,clothes and shoes without checking the gender it will be suitable for.
+
 -I also recommend that they sign a promotion contract with one of the stars to create awareness about the authenticity and originality of their products.This i believe will help to boost sales.
+
 -The marketing teams should also be made to be more serious by creating percentages that should be theres if they exceed a particular target.
 
 
